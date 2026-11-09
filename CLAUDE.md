@@ -64,6 +64,11 @@ src/
   - Marketing sites where the look sells: the Impeccable design skill.
 - If the project already has its own design system or brand tokens, follow those and ask before switching.
 
+## Generated video and images (Higgsfield)
+
+- Before sending anything to Higgsfield (a video, image or any generation job), make a storyboard first: each shot or scene, what's on screen, motion, text or voiceover, length, and the prompt you plan to send.
+- Show me the storyboard and wait for my yes before sending, so no credits are spent on shots I haven't seen.
+
 ---
 
 ## Off-Limits
