@@ -57,6 +57,13 @@ src/
 - Don't refactor beyond what the task needs without asking.
 - Leave no dead code, debug output or silent TODOs behind.
 
+## Design system
+
+- Before starting a new UI build, check which kind of project it is and use the matching design system:
+  - Apps and software (dashboards, internal tools, logged-in screens): Meta's Astryx (https://github.com/meta/astryx). It needs React 19+ and is still in beta, so confirm with me before moving an existing live app to it.
+  - Marketing sites where the look sells: the Impeccable design skill.
+- If the project already has its own design system or brand tokens, follow those and ask before switching.
+
 ---
 
 ## Off-Limits
